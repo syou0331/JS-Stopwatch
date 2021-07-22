@@ -1,0 +1,28 @@
+.stopwatch-main{
+    width: 400px;
+    border: solid;
+}
+
+.stopwatch-main-title{
+    margin-left: 10px;
+}
+
+.stopwatch-main > h2{
+    width: 60%;
+}
+
+.stopwatch-counter{
+    margin-left: 20px;
+}
+
+.stopwatch-counter > p{
+    display: inline-block;
+    font-size: 45px;
+}
+
+.stopwatch-button > button{
+    padding: 10px 20px;
+    margin: 0 0 20px 20px;
+    border-color: gray;
+    border-radius: 3px;
+}
